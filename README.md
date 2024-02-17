@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+First, run the development server:
+
+npm run dev
+
+Open http://localhost:3000 with your browser to see the result.
+
+
+Technologies Used:
+
+React context JS
+firebase database - to store user data, messages
+chat engine  - For continuous live chat experience between agent and customer without refresh
+firebase authentication
+facebook api authentication
+firebase hoisting - For Server Hosting
+
